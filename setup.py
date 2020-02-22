@@ -6,11 +6,11 @@ with open("README.md", "r") as fh:
 
 
 setuptools.setup(
-    name="MarkEasy-Oleg-Żero",
+    name="MarkEasy-Oleg-Zero",
     version="0.1.0",
-    author="Oleg Żero",
+    author="Oleg Zero",
     author_email="oleg@zerowithdot.com",
-    descrtiption="Easy implementation of Hidden Markov Model",
+    description="Easy implementation of Hidden Markov Model",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/OlegZero13/markeasy/archive/0.1.0.tar.gz",
