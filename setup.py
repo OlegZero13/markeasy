@@ -13,7 +13,7 @@ setuptools.setup(
     descrtiption="Easy implementation of Hidden Markov Model",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url=None,
+    url="https://github.com/OlegZero13/markeasy/archive/0.1.0.tar.gz",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
