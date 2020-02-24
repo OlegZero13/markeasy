@@ -11,6 +11,7 @@ setuptools.setup(
     author="Oleg Zero",
     author_email="oleg@zerowithdot.com",
     description="Easy implementation of Hidden Markov Model",
+    license="MIT",
     long_description=long_description,
     url="https://github.com/OlegZero13/markeasy/archive/0.1.0.tar.gz",
     packages=setuptools.find_packages(),
