@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="MarkEasy-Oleg-Zero",
-    version="0.1.1",
+    version="0.1.3",
     author="Oleg Zero",
     author_email="oleg@zerowithdot.com",
     description="Easy implementation of Hidden Markov Model",
@@ -22,7 +22,7 @@ setuptools.setup(
     ],
     python_requires='>=3.6',
     install_requires=[
-        "numpy", 
-        "pandas"
+#        "numpy==1.18.1", 
+#        "pandas==0.25.3"
     ]
 )
