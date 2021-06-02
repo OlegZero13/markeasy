@@ -34,7 +34,7 @@ six==1.14.0
 tqdm==4.43.0
 traitlets==4.3.3
 twine==3.1.1
-urllib3==1.25.8
+urllib3==1.26.5
 wcwidth==0.1.8
 webencodings==0.5.1
 zipp==3.0.0
