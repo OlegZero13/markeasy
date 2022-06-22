@@ -13,7 +13,7 @@ ipython-genutils==0.2.0
 jedi==0.15.2
 jeepney==0.4.2
 keyring==21.1.0
-numpy==1.18.1
+numpy==1.22.0
 pandas==0.25.3
 parso==0.5.2
 pexpect==4.8.0
